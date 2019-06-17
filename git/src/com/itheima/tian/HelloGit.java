@@ -10,5 +10,8 @@ public class HelloGit {
         System.out.println("git来了");
 
     }
+    public void test(){
+        System.out.println("hehe");
+    }
 
 }
